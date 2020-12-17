@@ -36,7 +36,6 @@ class App extends Component {
 
         const apikey = process.env.REACT_APP_API_PIXABAY;
         const url = `https://pixabay.com/api/?key=${apikey}&q=${termino}&page=${pagina}`;
-        console.log(url);
         fetch(url).then(response => response.json()).then(respo => this.setState({ imagenes: respo.hits }));
     }
 
