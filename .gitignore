@@ -1,7 +1,0 @@
-/node_modules
-.env
-url
-debug.log
-build
-.gitignore
-.eslintcache2
