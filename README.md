@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This is a project to start with React using Create React App. 
-It is an image search engine that consumes the [https://pixabay.com](PIXABAY-API)
+It is an image search engine that consumes the [PIXABAY API](https://pixabay.com)
 
 ## Available Scripts
 
