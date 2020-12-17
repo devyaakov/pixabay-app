@@ -3,3 +3,5 @@
 url
 debug.log
 build
+.gitignore
+.eslintcache
