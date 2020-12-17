@@ -5,9 +5,23 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #004c8c;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.jumbotron{
+    margin-top: 50px;
+}
+.lead{
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.card {
+    position: relative;
+    min-height: 270px;
 }
